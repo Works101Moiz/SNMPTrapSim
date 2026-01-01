@@ -1,0 +1,17 @@
+C:\Users\Moiz Afaq\Documents\offlim\SnmpTrapSim\SnmpTrapSender\bin\Debug\net8.0\SnmpTrapSender.exe
+C:\Users\Moiz Afaq\Documents\offlim\SnmpTrapSim\SnmpTrapSender\bin\Debug\net8.0\SnmpTrapSender.deps.json
+C:\Users\Moiz Afaq\Documents\offlim\SnmpTrapSim\SnmpTrapSender\bin\Debug\net8.0\SnmpTrapSender.runtimeconfig.json
+C:\Users\Moiz Afaq\Documents\offlim\SnmpTrapSim\SnmpTrapSender\bin\Debug\net8.0\SnmpTrapSender.dll
+C:\Users\Moiz Afaq\Documents\offlim\SnmpTrapSim\SnmpTrapSender\bin\Debug\net8.0\SnmpTrapSender.pdb
+C:\Users\Moiz Afaq\Documents\offlim\SnmpTrapSim\SnmpTrapSender\bin\Debug\net8.0\SharpSnmpLib.dll
+C:\Users\Moiz Afaq\Documents\offlim\SnmpTrapSim\SnmpTrapSender\obj\Debug\net8.0\SnmpTrapSender.csproj.AssemblyReference.cache
+C:\Users\Moiz Afaq\Documents\offlim\SnmpTrapSim\SnmpTrapSender\obj\Debug\net8.0\SnmpTrapSender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moiz Afaq\Documents\offlim\SnmpTrapSim\SnmpTrapSender\obj\Debug\net8.0\SnmpTrapSender.AssemblyInfoInputs.cache
+C:\Users\Moiz Afaq\Documents\offlim\SnmpTrapSim\SnmpTrapSender\obj\Debug\net8.0\SnmpTrapSender.AssemblyInfo.cs
+C:\Users\Moiz Afaq\Documents\offlim\SnmpTrapSim\SnmpTrapSender\obj\Debug\net8.0\SnmpTrapSender.csproj.CoreCompileInputs.cache
+C:\Users\Moiz Afaq\Documents\offlim\SnmpTrapSim\SnmpTrapSender\obj\Debug\net8.0\SnmpTrap.718021B9.Up2Date
+C:\Users\Moiz Afaq\Documents\offlim\SnmpTrapSim\SnmpTrapSender\obj\Debug\net8.0\SnmpTrapSender.dll
+C:\Users\Moiz Afaq\Documents\offlim\SnmpTrapSim\SnmpTrapSender\obj\Debug\net8.0\refint\SnmpTrapSender.dll
+C:\Users\Moiz Afaq\Documents\offlim\SnmpTrapSim\SnmpTrapSender\obj\Debug\net8.0\SnmpTrapSender.pdb
+C:\Users\Moiz Afaq\Documents\offlim\SnmpTrapSim\SnmpTrapSender\obj\Debug\net8.0\SnmpTrapSender.genruntimeconfig.cache
+C:\Users\Moiz Afaq\Documents\offlim\SnmpTrapSim\SnmpTrapSender\obj\Debug\net8.0\ref\SnmpTrapSender.dll

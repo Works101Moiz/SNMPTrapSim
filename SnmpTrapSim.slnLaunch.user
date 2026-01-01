@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "SnmpTrapListener\\SnmpTrapListener.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "SnmpTrapSender\\SnmpTrapSender.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
